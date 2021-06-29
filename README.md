@@ -11,19 +11,20 @@ Louise is interested in starting a campaign for theaters in US. She has a budget
 To help Louise plan her campaign timeline it needs to  
 observe launch date data which shows some trend that the time from May to July have greater success rate for Theater Group and for all analysed years.
 
-https://github.com/itekkie/kickstarter-analysis/blob/main/resources/2.1.1%20Theater_Outcomes_vs_Launch.png
+![image](https://user-images.githubusercontent.com/68247343/123840540-6ee77780-d8dc-11eb-8c3d-0ebc87e615dd.png)
 
 # 2.1.1.1 Analysis of launch date of campaign for last full 2016.
 
 With studying last year to be closer for last tendency,let's take a look at for last full 2016 year. The chart below shows February, March and May. That means, last year shows different tendency than it was for full years. But, the best month to launch the project is still May.
 
-https://github.com/itekkie/kickstarter-analysis/blob/main/resources/2.1.1.1%20Theater_Outcomes_vs_Launch%202016.png
+![image](https://user-images.githubusercontent.com/68247343/123840571-7ad33980-d8dc-11eb-8a10-a5c28850fc7c.png)
 
 # 2.1.2 Analysis of length of campaign for last full 2016.
 
 Now, let's take a look at how campaign length might be tied to its outcomes. The chart below shows that a bit shorter campaign more effective with the average around 27 days.
 
-https://github.com/itekkie/kickstarter-analysis/blob/main/resources/2.1.2%20Successful%20campaign%20length%202016.png
+![image](https://user-images.githubusercontent.com/68247343/123840596-845ca180-d8dc-11eb-9d4a-67e5ead70e3c.png)
+
 
 # 2.2 Analysis of Outcomes Based on Goals
 
@@ -37,6 +38,8 @@ So, successful Kickstarter campaigns have smaller fundraising goals than failed 
 In addition, goal amount from 45000$ and higher is as 88% failed Kickstarter campaigns.
 
 With one more visualization of data it is clear that there is relation to amount of goal and amount of succesful campaigns.
+
+![image](https://user-images.githubusercontent.com/68247343/123840654-963e4480-d8dc-11eb-8bc8-d6012c777511.png)
 
 https://github.com/itekkie/kickstarter-analysis/blob/main/resources/2.2.1%20Outcomes_vs_Goals.png
 
