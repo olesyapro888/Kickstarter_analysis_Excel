@@ -1,28 +1,56 @@
 # An Analysis of Kickstarter Campaigns
 
-Overview of Project: Explain the purpose of this analysis.
+# 1. Background.
 
-1. Background.
-   Louise was a goal as to **\_** . And she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
-2. Analysis and Challenges (with screen short):
+Louise is interested in starting a campaign for theaters in US. She has a budget as 10000$ for her theatre play "Fever". And she wants to know how different campaigns fared in relation to their launch dates and their funding goals based on data Kickstarter crowdfund platform.
 
-2.1.1 Fisrt result
+# 2. Analysis of launch dates and funding goals.
 
-Theater Outcomes by Launch Date
-an observation of launchDate shows some trend that the time from May to July have greater success rate for Theater Group and for all analysis years
+# 2.1.1 Analysis of launch date of campaign for full period (7 years).
 
-2.1.2 Seconds result
+To help Louise plan her campaign timeline it needs to  
+observe launch date data which shows some trend that the time from May to July have greater success rate for Theater Group and for all analysed years.
 
-For last ful 2016 yaer the chart below shows Febrary, March and May
+chart 2.1.1
 
-Result: the best month to launch the Project is May.
+# 2.1.1.1 Analysis of launch date of campaign for last full 2016.
 
-2.2 Outcomes Based on Goals
+With studying last year to be closer for last tendency,let's take a look at for last full 2016 year. The chart below shows February, March and May. That means, last year shows different tendency than it was for full years. But, the best month to launch the project is still May.
 
-2.2.1
+2.1.1.1 chart
 
-Results: Answer the following questions in complete and coherent sentences.
-3
-Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
-One conclusion is made about the Outcomes based on Goals (2 pt).
-There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).
+# 2.1.2 Analysis of length of campaign for last full 2016.
+
+Now, let's take a look at how campaign length might be tied to its outcomes. The chart below shows that a bit shorter campaign more effective with the average around 27 days.
+
+2.1.2 chart
+
+# 2.2 Analysis of Outcomes Based on Goals
+
+This simple table allows to determine a few things.
+
+Screen short of table
+
+For one, the most of successful campaign (70%) have a goal to fundraise under 5000$. And 84% of all successful campaigns have less than 10000$ as a goal.
+So, successful Kickstarter campaigns have smaller fundraising goals than failed Kickstarter campaigns.
+
+In addition, goal amount from 45000$ and higher is as 88% failed Kickstarter campaigns.
+
+With one more visualization of data it is clear that there is relation to amount of goal and amount of succesful campaigns.
+
+2.2.1 chart
+
+# 3 CONCLUSION
+
+So far, the analysis of Theater outcames by launch date
+has shown that May seems to be a good month to launch a campaign.
+
+Additionally, the observation of length of campaigns says that a bit shorter campaign more effective with the average around 27 days. But, generally, there is no big influence of length to succesful campaigns.
+
+The summary of the analysis of Outcomes Based on Goals displays that successful Kickstarter campaigns have smaller fundraising goals than failed Kickstarter campaigns as 84% all of successful campaigns with less than 5000$ goal.
+
+To conclude, Louise is asking almost maximum of major successful Kickstarter goal, so this might be not great news for her campaign.
+
+But, there is some data which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. It means, it needs to analyse the reasons of failed campaigns.
+
+So far, the analysis is compiled some solid information to present to Louise to help inform her campaign strategy.
