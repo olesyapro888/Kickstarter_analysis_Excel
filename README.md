@@ -32,14 +32,22 @@ This simple table allows to determine a few things.
 
 And with visualization of data it is clear that there is relation to amount of goal and amount of succesful campaigns.
 
+<<<<<<< HEAD
 ![image](./resources/2.2.1_Outcomes_vs_Goals.png)
+=======
+![image](resource/2.2.1 Outcomes_vs_Goals.png)
+>>>>>>> 1e13881c2e3b2d1bc464892d329ff8a93ad04941
 
 For one, the most of successful campaign (70%) have a goal to fundraise under 5000$. And 84% of all successful campaigns have less than 10000$ as a goal.
 So, successful Kickstarter campaigns have smaller fundraising goals than failed Kickstarter campaigns.
 
 ![image](./resources/2.2.2_Outcomes_vs_Goals.png)
 
+<<<<<<< HEAD
 In addition, goal amount from 45000$ and higher is as 88% failed Kickstarter campaigns.
+=======
+![image](resource/2.2.2 Outcomes_vs_Goals.png)
+>>>>>>> 1e13881c2e3b2d1bc464892d329ff8a93ad04941
 
 # 3 CONCLUSION
 
