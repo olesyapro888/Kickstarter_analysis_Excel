@@ -14,7 +14,7 @@ To help Louise plan her campaign timeline it needs to observe launch date data w
 
 ## 2.1.1.1 Analysis of launch date of campaign for last full 2016.
 
-With studying last year to be closer for last tendency,let's take a look at for last full 2016 year. The chart below shows February, March and May. That means, last year shows different tendency than it was for full years. But, the best month to launch the project is still May.
+With studying last year to be closer for last tendency, let's take a look at for last full 2016 year. The chart below shows February, March and May. That means, last year shows different tendency than it was for full years. But, the best month to launch the project is still May.
 
 ![image](https://user-images.githubusercontent.com/68247343/123840571-7ad33980-d8dc-11eb-8a10-a5c28850fc7c.png)
 
@@ -30,11 +30,11 @@ This simple table allows to determine a few things.
 
 ![image](https://user-images.githubusercontent.com/68247343/123840136-fb456a80-d8db-11eb-98f9-7a2fc48f3540.png)
 
-And with visualization of data it is clear that there is relation to amount of goal and amount of succesful campaigns.
+For one, with visualization of data it is clear that there is relation to amount of goal and amount of succesful campaigns.
 
 ![image](./resources/2.2.1_Outcomes_vs_Goals.png)
 
-For one, the most of successful campaign (70%) have a goal to fundraise under 5000$. And 84% of all successful campaigns have less than 10000$ as a goal.
+And, the most of successful campaign (70%) have a goal to fundraise under 5000$. And 84% of all successful campaigns have less than 10000$ as a goal.
 So, successful Kickstarter campaigns have smaller fundraising goals than failed Kickstarter campaigns.
 
 ![image](./resources/2.2.2_Outcomes_vs_Goals.png)
