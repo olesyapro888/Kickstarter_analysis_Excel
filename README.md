@@ -1,10 +1,10 @@
 # A great analysis of kickstarter campaigns!
 
-## 1. Background.
+# 1. Background.
 
 Louise is interested in starting a campaign for theaters in US. She has a budget as 10000$ for her theatre play "Fever". And she wants to know how different campaigns fared in relation to their launch dates and their funding goals based on data Kickstarter crowdfund platform.
 
-## 2. Analysis of the launch dates and funding goals.
+# 2. Analysis of the launch dates and funding goals.
 
 ## 2.1.1 Analysis of launch date of campaign for full period (7 years).
 
@@ -30,18 +30,18 @@ This simple table allows to determine a few things.
 
 ![image](https://user-images.githubusercontent.com/68247343/123840136-fb456a80-d8db-11eb-98f9-7a2fc48f3540.png)
 
-With visualization of data it is clear that there is relation to amount of goal and amount of succesful campaigns.
+And with visualization of data it is clear that there is relation to amount of goal and amount of succesful campaigns.
 
-![Outcomes vs Goals](resource/2.2.1 Outcomes_vs_Goals.png)
+![image](./resources/2.2.1_Outcomes_vs_Goals.png)
 
 For one, the most of successful campaign (70%) have a goal to fundraise under 5000$. And 84% of all successful campaigns have less than 10000$ as a goal.
 So, successful Kickstarter campaigns have smaller fundraising goals than failed Kickstarter campaigns.
 
+![image](./resources/2.2.2_Outcomes_vs_Goals.png)
+
 In addition, goal amount from 45000$ and higher is as 88% failed Kickstarter campaigns.
 
-![Outcomes vs Goals](resource/2.2.2 Outcomes_vs_Goals.png)
-
-## 3 CONCLUSION
+# 3 CONCLUSION
 
 So far, the analysis of Theater outcomes by launch date has shown that May seems to be a good month to launch a campaign.
 
@@ -53,4 +53,7 @@ To conclude, Louise is asking almost maximum of major successful Kickstarter goa
 
 But, there is some data which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. It means, it needs to analyse the reasons of failed campaigns but the dataset does not contain it.
 
-So far, the analysis is compiled some solid information to present to Louise to help inform her campaign strategy.
+So far,
+https://github.com/itekkie/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+
+the analysis is compiled some solid information to present to Louise to help inform her campaign strategy.
