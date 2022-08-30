@@ -1,4 +1,4 @@
-# A great analysis of kickstarter campaigns!
+# A great analysis of kickstarter campaigns by using Excel!
 
 # 1. Background.
 
